@@ -1,3 +1,4 @@
 # landing-page-with-html-css
-A simple landing page with html css and totally responsive.
-Visit this site: https://coodee.netlify.com
+
+A simple landing page with html, css and totally responsive.
+Visit this site: https://landing-page-mhs.netlify.app
